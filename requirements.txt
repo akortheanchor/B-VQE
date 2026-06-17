@@ -1,0 +1,15 @@
+# B-VQE requirements
+# Qiskit ecosystem
+qiskit>=2.4.1
+qiskit-ibm-runtime>=0.47.0
+qiskit-aer>=0.17.0
+
+# Numerics
+numpy>=1.26.0
+scipy>=1.11.0
+
+# Plotting
+matplotlib>=3.8.0
+
+# Utilities
+tqdm>=4.66.0
